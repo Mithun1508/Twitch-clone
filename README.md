@@ -14,14 +14,11 @@ A streaming application that mimics Twitch.
 
 # Directories
 
-# 1)client: 
-  The React front-end
+1)client:  The React front-end
 
-# 2) RTMP: 
- The Real Time Messaging Protocol (RTMP) Server
+2) RTMP:  The Real Time Messaging Protocol (RTMP) Server
 
-# 3) API: 
-  The API server
+3) API:  The API server
 
 # Getting started
 
