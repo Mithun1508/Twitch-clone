@@ -44,5 +44,5 @@ Use streaming software such as OBS. Configure your streaming software to stream 
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/93249038/212462051-4c05e378-3b09-474d-b25a-eb97d18e54ef.png)
 
-![Screenshot (25)](https://user-images.githubusercontent.com/93249038/212462059-d797fcc7-f129-4a2b-ac1e-fc7af48d21ef.png)
+# My Twitch Username: mithunem
 
