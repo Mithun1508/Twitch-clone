@@ -14,14 +14,19 @@ A streaming application that mimics Twitch.
 
 # Directories
 
-#client: The React front-end
+# 1)client: 
+  The React front-end
 
-# RTMP: The Real Time Messaging Protocol (RTMP) Server
+# 2) RTMP: 
+ The Real Time Messaging Protocol (RTMP) Server
 
-# API: The API server
+# 3) API: 
+  The API server
 
 # Getting started
-In each directory (client, rtmp, api), run npm install and then npm start. Navigate to localhost:3000 to begin using the streaming app.
+
+In each directory (client, rtmp, api), run npm install and then npm start. 
+Navigate to localhost:3000 to begin using the streaming app.
 
 # To stream video
 Use streaming software such as OBS. Configure your streaming software to stream to the RTMP server. Configuration can be found on Node-Media-Server for publishing live streams. Configuration should be to the id that you are trying to stream to.
@@ -37,7 +42,7 @@ Use streaming software such as OBS. Configure your streaming software to stream 
 
 5.Error handling
 
-# Screen shots
+# Screenshots
  
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/93249038/212462051-4c05e378-3b09-474d-b25a-eb97d18e54ef.png)
