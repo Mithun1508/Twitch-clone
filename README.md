@@ -1,24 +1,27 @@
-# Twitch Stream Clone 
+# Twitch Stream Clone
+# New Learnings ...
+
 A streaming application that mimics Twitch.
 
-# Tech Stack
+# Technologies used
+
 1) React
 
 2) Redux
 
- 3)React-Router
+3)React-Router
 
- 4)JSON Server
+4)JSON Server
 
- 5)Node-Media-Server
+5)Node-Media-Server
 
 # Directories
 
 1)client:  The React front-end
 
- 2) RTMP:  The Real Time Messaging Protocol (RTMP) Server
+2) RTMP:  The Real Time Messaging Protocol (RTMP) Server
 
- 3) API:  The API server
+3) API:  The API server
 
 # Getting started
 
