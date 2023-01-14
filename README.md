@@ -1,43 +1,46 @@
-# Twitch Clone
+# Twitch Stream Clone 
+A streaming application that mimics Twitch.
 
-Interested in creating Twitch Clone in [React](https://thewebdev.tech/series/Twitch-react)?
+# Tech Stack
+1) React
 
-### Getting Started
+2) Redux
 
-There are two methods for getting started with this repo.
+3)React-Router
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the process with the following:
+4)JSON Server
 
-```
-> git clone https://github.com/nabendu82/streams.git
-> cd streams
-> cd api
-> npm install
-> npm start
-> cd ../client/
-> npm install
-> npm start
-> cd ../rtmpserver/
-> npm install
-> npm start
-```
+5)Node-Media-Server
 
-#### Not Familiar with Git?
-Click [here](https://github.com/nabendu82/streams/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+# Directories
 
-```
-> cd streams
-> cd api
-> npm install
-> npm start
-> cd ../client/
-> npm install
-> npm start
-> cd ../rtmpserver/
-> npm install
-> npm start
-```
+#client: The React front-end
 
+# RTMP: The Real Time Messaging Protocol (RTMP) Server
 
-# Twitch-clone
+# API: The API server
+
+# Getting started
+In each directory (client, rtmp, api), run npm install and then npm start. Navigate to localhost:3000 to begin using the streaming app.
+
+# To stream video
+Use streaming software such as OBS. Configure your streaming software to stream to the RTMP server. Configuration can be found on Node-Media-Server for publishing live streams. Configuration should be to the id that you are trying to stream to.
+
+# What this app demonstrates
+1. Navigating around to seperate pages in our SPA
+
+2. Ability for users login/logout using Google OAuth
+
+3. Handling forms in Redux
+
+4.CRUD Operations in React/Redux
+
+5.Error handling
+
+# Screen shots
+ 
+
+![Screenshot (22)](https://user-images.githubusercontent.com/93249038/212462051-4c05e378-3b09-474d-b25a-eb97d18e54ef.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/93249038/212462059-d797fcc7-f129-4a2b-ac1e-fc7af48d21ef.png)
+
